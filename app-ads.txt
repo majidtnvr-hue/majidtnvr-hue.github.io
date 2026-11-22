@@ -7932,4 +7932,9 @@ yieldmo.com, 3746143199094055132, RESELLER
 yieldmo.com, 2719019867620450718, RESELLER
 zetaglobal.net, 546, RESELLER
 cas.ai, 9f9a07b7-818f-439c-83e6-944ffe7dfdcc, DIRECT
-https://majidtnvr-hue.github.io/app-ads.txt
+toponad.com,16aeaeeab92738,RESELLER,1d49fe424a1a456d
+antipodesdigital.com,ad0007,RESELLER
+adplify.ai,792996,RESELLER
+toponad.com,16aeaeeab92738,DIRECT,1d49fe424a1a456d
+media.net,8CU47UKG7,RESELLER
+
